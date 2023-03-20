@@ -1,0 +1,14 @@
+1.Ler a Primeira Nota;
+2.Ler a Segunda Nota;
+3.Calcular a Media das Notas;
+4.Mostrar a Media Calculada;
+5.Digite o Total de Aulas;
+6.Digite o Numeros de Faltas do Aluno;
+7.Calcular a % de Frequencia;
+8.Mostrar a % de Frequencia;
+9.se (Media=>50 e Frequencia >=75%){
+    Entao Aluno Aprovado
+} senao{
+    Entao Aluno Reprovado
+}
+10.se meida for maior 50 que 50 porem frequencia estiver 75%
